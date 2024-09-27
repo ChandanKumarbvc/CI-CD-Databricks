@@ -4,6 +4,6 @@
   "timeout_seconds": 1200,
   "max_retries": 3,
   "notebook_task": {
-    "notebook_path": "dbfs:/Workspace/Users/bvchandan@outlook.com/CI-CD"
+    "notebook_path": "dbfs:/Workspace/Users/bvchandan@outlook.com/CICD"
   }
 }
